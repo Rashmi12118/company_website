@@ -312,16 +312,16 @@
 				<div class="sidebar-box margin40">
 					<h4>Services</h4>
 					<ul class="list-unstyled cat-list">
-						<li><a href="<c:url value="services/product-development"/>">Product
+						<li><a href="<c:url value="product-development"/>">Product
 								Developement</a></li>
-						<li><a href="<c:url value="services/adm"/>">Application
+						<li><a href="<c:url value="adm"/>">Application
 								Developement and maintenance</a></li>
-						<li><a href="<c:url value="services/mobility"/>">Mobility</a></li>
-						<li><a href="<c:url value="services/testing"/>">Quality
+						<li><a href="<c:url value="mobility"/>">Mobility</a></li>
+						<li><a href="<c:url value="testing"/>">Quality
 								Assurance and Testing</a></li>
-						<li><a href="<c:url value="services/business-intelligence"/>">Business
+						<li><a href="<c:url value="business-intelligence"/>">Business
 								Intelligence</a></li>
-						<li><a href="<c:url value="services/ims"/>">Infrastructure
+						<li><a href="<c:url value="ims"/>">Infrastructure
 								Management Services</a></li>
 					</ul>
 				</div>

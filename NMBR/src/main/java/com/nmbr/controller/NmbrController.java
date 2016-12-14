@@ -52,21 +52,5 @@ public class NmbrController {
 		return "services/ims";
 	}	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
 }
